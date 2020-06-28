@@ -10,7 +10,7 @@ let string = `/*你好，我叫Shawn
   width:200px;
   height:200px;
 }
-/* 接下来跟我把 div 变成一个八卦图
+/* 接下来跟我把 div 变成一个乾坤八卦图
  * 注意看好了
  * 首先，把 div 变成一个圆
  **/
